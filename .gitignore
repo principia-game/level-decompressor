@@ -1,0 +1,6 @@
+# Python caches
+__pycache__/
+
+# Level junk
+level.plvl
+decompressed_buffer
